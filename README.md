@@ -45,6 +45,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + 美国新泽西州皮斯卡特维 Piscataway, New Jersey, US
 + 美国内华达州拉斯维加斯 Las Vegas, Nevada, US
 + 德国北莱茵-威斯特法伦杜塞尔多夫 Düsseldorf, Nordrhein-Westfalen, DE
++ 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, DE
 + 卢森堡 Luxembourg, LU
 
 ## 联系 Contact
