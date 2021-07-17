@@ -1,3 +1,11 @@
-remote_theme: AS141776/primer
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
 github:
   private: true
