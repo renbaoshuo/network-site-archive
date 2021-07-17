@@ -18,7 +18,7 @@ This network only supports IPv6.
 
 我们开放对等互联，您可以通过下方列出的 Internet Exchange 与我们互联。
 
-We have an open peering policy. You can peer with us through Internet Exchanges that we have in common, or individually.
+We have an open peering policy. You can peer with us through the Internet Exchange listed below.
 
 ## 位置 Locations
 
