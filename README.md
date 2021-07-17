@@ -55,6 +55,6 @@ Please send email to [i@baoshuo.ren](mailto:i@baoshuo.ren) . Replying maybe slow
 
 ## 关于 About
 
-本页面内容基于 [ZXNET](https://net.zxinc.org) 修改，并使用 GitHub 托管。
+本页面内容基于 [ZXNET](https://net.zxinc.org) 修改，并使用 GitHub Pages 服务托管。
 
 The content of this page is modified based on [ZXNET](https://net.zxinc.org) and hosted by GitHub Pages.
