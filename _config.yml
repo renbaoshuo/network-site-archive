@@ -1,1 +1,3 @@
-theme: AS141776/site-theme
+remote_theme: AS141776/primer
+github:
+  private: true
