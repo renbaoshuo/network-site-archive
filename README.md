@@ -52,3 +52,9 @@ We have an open peering policy. You can peer with us through Internet Exchanges 
 请发邮件到 [i@baoshuo.ren](mailto:i@baoshuo.ren) 。回复可能会很慢。
 
 Please send email to [i@baoshuo.ren](mailto:i@baoshuo.ren) . Replying maybe slow.
+
+## 关于 About
+
+本页面内容基于 [ZXNET](https://net.zxinc.org) 修改，并使用 GitHub 托管。
+
+The content of this page is modified based on [ZXNET](https://net.zxinc.org) and hosted by GitHub Pages.
