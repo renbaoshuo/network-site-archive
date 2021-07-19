@@ -47,6 +47,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + 德国北莱茵-威斯特法伦杜塞尔多夫 Düsseldorf, Nordrhein-Westfalen, DE
 + 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, DE
 + 卢森堡 Luxembourg, LU
++ 荷兰哈勒姆 Haarlem, Netherlands
 
 ## 联系 Contact
 
