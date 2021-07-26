@@ -40,10 +40,8 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + 中国广州 Guangzhou, CN
 + 中国杭州 Hangzhou, CN
 + 中国香港 Hong Kong, CN
-+ 美国华盛顿州西雅图 Seattle, Washington, US
 + 美国加利福尼亚州佛利蒙 Fremont, California, US
-+ 美国新泽西州皮斯卡特维 Piscataway, New Jersey, US
-+ 美国内华达州拉斯维加斯 Las Vegas, Nevada, US
++ 美国佐治亚州亚特兰大 Atlanta, Georgia, US
 + 德国北莱茵-威斯特法伦杜塞尔多夫 Düsseldorf, Nordrhein-Westfalen, DE
 + 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, DE
 + 卢森堡 Luxembourg, LU
