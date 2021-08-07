@@ -35,6 +35,11 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + [EVIX](https://www.peeringdb.com/ix/2274)
 + [LL-IX](https://www.peeringdb.com/ix/2343)
 + [Wut Exchange](https://www.peeringdb.com/ix/3543)
++ [OPTIX (Frankfurt)](https://www.peeringdb.com/ix/3540)
++ [OPTIX (Fremont)](https://www.peeringdb.com/ix/3540)
++ [OPTIX (Shanghai)](https://www.peeringdb.com/ix/3540)
++ [OPTIX (Hong Kong)](https://www.peeringdb.com/ix/3540)
++ [OPTIX (Amsterdam)](https://www.peeringdb.com/ix/3540)
 
 ## 位置 Locations
 
