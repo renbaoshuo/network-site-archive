@@ -1,5 +1,7 @@
 # 宝硕教育与科研计算机网 Baoshuo Education And Research Network
 
+**Education And Research Network** \| [DN42 Network](https://dn42.baoshuo.ren)
+
 ## 介绍 Introduce
 
 宝硕教育与科研计算机网（BSNET，[AS141776](https://bgp.he.net/AS141776)）由 [宝硕](https://baoshuo.ren) 运营。
