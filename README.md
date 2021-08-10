@@ -51,7 +51,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + 美国佐治亚州亚特兰大 Atlanta, Georgia, US
 + 德国北莱茵-威斯特法伦杜塞尔多夫 Düsseldorf, Nordrhein-Westfalen, DE
 + 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, DE
-+ 卢森堡 Luxembourg, LU
++ 卢森堡梅尔施县比森 Bissen, Mersch, Luxembourg
 + 荷兰哈勒姆 Haarlem, Netherlands
 
 ## 联系 Contact
@@ -62,6 +62,6 @@ Please send email to [i@baoshuo.ren](mailto:i@baoshuo.ren) . Replying maybe slow
 
 ## 关于 About
 
-本页面内容基于 [ZXNET](https://net.zxinc.org) 修改，并使用 GitHub Pages 服务托管。
+建议在 Telegram 上关注 [@BaoshuoNetwork](https://t.me/s/BaoshuoNetwork) 以获取最新信息。
 
-The content of this page is modified based on [ZXNET](https://net.zxinc.org) and hosted by GitHub Pages.
+It is recommended that follow [@BaoshuoNetwork](https://t.me/s/BaoshuoNetwork) on Telegram to get the latest information.
