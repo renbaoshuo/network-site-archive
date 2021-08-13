@@ -40,6 +40,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + [OPTIX (Shanghai)](https://www.peeringdb.com/ix/3540)
 + [OPTIX (Hong Kong)](https://www.peeringdb.com/ix/3540)
 + [OPTIX (Amsterdam)](https://www.peeringdb.com/ix/3540)
++ [Internet Exchange 42 (Las Vegas)](https://www.peeringdb.com/ix/3226)
 
 ## 位置 Locations
 
