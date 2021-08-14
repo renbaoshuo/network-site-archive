@@ -24,23 +24,23 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 
 ## 交换中心 Internet Exchange
 
-+ [Aperture-IX](https://www.peeringdb.com/ix/3471)
-+ [ZX Internet Exchange (Hangzhou)](https://www.peeringdb.com/ix/3166)
-+ [ZX Internet Exchange (Hong Kong)](https://www.peeringdb.com/ix/3246)
-+ [TOHU Internet Exchange](https://www.peeringdb.com/ix/3175)
-+ [BGP.Exchange (New Jersey)](https://www.peeringdb.com/ix/3478)
-+ [BGP.Exchange (Los Angeles)](https://www.peeringdb.com/ix/3478)
-+ [BGP.Exchange (Frankfurt)](https://www.peeringdb.com/ix/3478)
++ [Aperture-IX (Hong Kong)](https://www.peeringdb.com/ix/3471)
 + [BGP.Exchange (Berlin)](https://www.peeringdb.com/ix/3478)
-+ [EVIX](https://www.peeringdb.com/ix/2274)
-+ [LL-IX](https://www.peeringdb.com/ix/2343)
-+ [Wut Exchange](https://www.peeringdb.com/ix/3543)
++ [BGP.Exchange (Frankfurt)](https://www.peeringdb.com/ix/3478)
++ [BGP.Exchange (Los Angeles)](https://www.peeringdb.com/ix/3478)
++ [BGP.Exchange (New Jersey)](https://www.peeringdb.com/ix/3478)
++ [EVIX (Fremont)](https://www.peeringdb.com/ix/2274)
++ [Internet Exchange 42 (Las Vegas)](https://www.peeringdb.com/ix/3226)
++ [LL-IX (Netherlands)](https://www.peeringdb.com/ix/2343)
++ [OPTIX (Amsterdam)](https://www.peeringdb.com/ix/3540)
 + [OPTIX (Frankfurt)](https://www.peeringdb.com/ix/3540)
 + [OPTIX (Fremont)](https://www.peeringdb.com/ix/3540)
-+ [OPTIX (Shanghai)](https://www.peeringdb.com/ix/3540)
 + [OPTIX (Hong Kong)](https://www.peeringdb.com/ix/3540)
-+ [OPTIX (Amsterdam)](https://www.peeringdb.com/ix/3540)
-+ [Internet Exchange 42 (Las Vegas)](https://www.peeringdb.com/ix/3226)
++ [OPTIX (Shanghai)](https://www.peeringdb.com/ix/3540)
++ [TOHU Internet Exchange (Guangzhou)](https://www.peeringdb.com/ix/3175)
++ [Wut Exchange (Hangzhou)](https://www.peeringdb.com/ix/3543)
++ [ZX Internet Exchange (Hangzhou)](https://www.peeringdb.com/ix/3166)
++ [ZX Internet Exchange (Hong Kong)](https://www.peeringdb.com/ix/3246)
 
 ## 位置 Locations
 
@@ -52,7 +52,6 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + 美国佐治亚州亚特兰大 Atlanta, Georgia, US
 + 德国北莱茵-威斯特法伦杜塞尔多夫 Düsseldorf, Nordrhein-Westfalen, DE
 + 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, DE
-+ 卢森堡梅尔施县比森 Bissen, Mersch, Luxembourg
 + 荷兰哈勒姆 Haarlem, Netherlands
 
 ## 联系 Contact
