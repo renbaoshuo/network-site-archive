@@ -50,6 +50,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + 中国石家庄 Shijiazhuang, CN
 + 中国广州 Guangzhou, CN
 + 中国杭州 Hangzhou, CN
++ 中国武汉 Wuhan, CN
 + 中国香港 Hong Kong, CN
 + 美国加利福尼亚州佛利蒙 Fremont, California, US
 + 美国佐治亚州亚特兰大 Atlanta, Georgia, US
