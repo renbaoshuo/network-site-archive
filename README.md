@@ -43,6 +43,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + [Wut Exchange (Hangzhou)](https://www.peeringdb.com/ix/3543)
 + [ZX Internet Exchange (Hangzhou)](https://www.peeringdb.com/ix/3166)
 + [ZX Internet Exchange (Hong Kong)](https://www.peeringdb.com/ix/3246)
++ ZX Internet Exchange (Wuhan)
 
 ## 位置 Locations
 
