@@ -32,6 +32,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + [EVIX (Fremont)](https://www.peeringdb.com/ix/2274)
 + [EVIX (Netherlands)](https://www.peeringdb.com/ix/2274)
 + [Internet Exchange 42 (Las Vegas)](https://www.peeringdb.com/ix/3226)
++ [Internet Exchange 42 (Singapore)](https://www.peeringdb.com/ix/3237)
 + [LL-IX (Netherlands)](https://www.peeringdb.com/ix/2343)
 + [OPTIX (Amsterdam)](https://www.peeringdb.com/ix/3540)
 + [OPTIX (Frankfurt)](https://www.peeringdb.com/ix/3540)
