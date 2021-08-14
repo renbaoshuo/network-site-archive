@@ -30,6 +30,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + [BGP.Exchange (Los Angeles)](https://www.peeringdb.com/ix/3478)
 + [BGP.Exchange (New Jersey)](https://www.peeringdb.com/ix/3478)
 + [EVIX (Fremont)](https://www.peeringdb.com/ix/2274)
++ [EVIX (Netherlands)](https://www.peeringdb.com/ix/2274)
 + [Internet Exchange 42 (Las Vegas)](https://www.peeringdb.com/ix/3226)
 + [LL-IX (Netherlands)](https://www.peeringdb.com/ix/2343)
 + [OPTIX (Amsterdam)](https://www.peeringdb.com/ix/3540)
