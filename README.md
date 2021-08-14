@@ -53,7 +53,7 @@ We have an open peering policy. You can peer with us through the Internet Exchan
 + 中国武汉 Wuhan, China
 + 中国香港 Hong Kong, China
 + 美国加利福尼亚州佛利蒙 Fremont, California, United States
-+ 美国佐治亚州亚特兰大 Atlanta, Georgia, United States
++ 美国内华达州拉斯维加斯 Las Vegas, Nevada, United States
 + 德国北莱茵-威斯特法伦杜塞尔多夫 Düsseldorf, Nordrhein-Westfalen, Germany
 + 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, Germany
 + 荷兰哈勒姆 Haarlem, Netherlands
